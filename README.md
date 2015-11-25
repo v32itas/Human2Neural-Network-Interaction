@@ -1,2 +1,2 @@
 # Human2Neural-Network-Interaction
-Currently it
+Currently it's too abstract to describe.
